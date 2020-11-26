@@ -1,0 +1,7 @@
+D:\Study\GeekBrains\ControlStructures\SumPositNumber\bin\Debug\SumPositNumber.exe.config
+D:\Study\GeekBrains\ControlStructures\SumPositNumber\bin\Debug\SumPositNumber.exe
+D:\Study\GeekBrains\ControlStructures\SumPositNumber\bin\Debug\SumPositNumber.pdb
+D:\Study\GeekBrains\ControlStructures\SumPositNumber\obj\Debug\SumPositNumber.csprojAssemblyReference.cache
+D:\Study\GeekBrains\ControlStructures\SumPositNumber\obj\Debug\SumPositNumber.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\ControlStructures\SumPositNumber\obj\Debug\SumPositNumber.exe
+D:\Study\GeekBrains\ControlStructures\SumPositNumber\obj\Debug\SumPositNumber.pdb

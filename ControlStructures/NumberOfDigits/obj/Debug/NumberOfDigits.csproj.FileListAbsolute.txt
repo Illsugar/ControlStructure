@@ -1,0 +1,6 @@
+D:\Study\GeekBrains\ControlStructures\NumberOfDigits\bin\Debug\NumberOfDigits.exe.config
+D:\Study\GeekBrains\ControlStructures\NumberOfDigits\bin\Debug\NumberOfDigits.exe
+D:\Study\GeekBrains\ControlStructures\NumberOfDigits\bin\Debug\NumberOfDigits.pdb
+D:\Study\GeekBrains\ControlStructures\NumberOfDigits\obj\Debug\NumberOfDigits.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\ControlStructures\NumberOfDigits\obj\Debug\NumberOfDigits.exe
+D:\Study\GeekBrains\ControlStructures\NumberOfDigits\obj\Debug\NumberOfDigits.pdb

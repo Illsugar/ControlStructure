@@ -1,0 +1,7 @@
+D:\Study\GeekBrains\ControlStructures\Recurs\bin\Debug\Recurs.exe.config
+D:\Study\GeekBrains\ControlStructures\Recurs\bin\Debug\Recurs.exe
+D:\Study\GeekBrains\ControlStructures\Recurs\bin\Debug\Recurs.pdb
+D:\Study\GeekBrains\ControlStructures\Recurs\obj\Debug\Recurs.csprojAssemblyReference.cache
+D:\Study\GeekBrains\ControlStructures\Recurs\obj\Debug\Recurs.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\ControlStructures\Recurs\obj\Debug\Recurs.exe
+D:\Study\GeekBrains\ControlStructures\Recurs\obj\Debug\Recurs.pdb

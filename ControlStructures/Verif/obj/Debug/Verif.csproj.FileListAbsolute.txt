@@ -1,0 +1,7 @@
+D:\Study\GeekBrains\ControlStructures\Verif\bin\Debug\Verif.exe.config
+D:\Study\GeekBrains\ControlStructures\Verif\bin\Debug\Verif.exe
+D:\Study\GeekBrains\ControlStructures\Verif\bin\Debug\Verif.pdb
+D:\Study\GeekBrains\ControlStructures\Verif\obj\Debug\Verif.csprojAssemblyReference.cache
+D:\Study\GeekBrains\ControlStructures\Verif\obj\Debug\Verif.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\ControlStructures\Verif\obj\Debug\Verif.exe
+D:\Study\GeekBrains\ControlStructures\Verif\obj\Debug\Verif.pdb

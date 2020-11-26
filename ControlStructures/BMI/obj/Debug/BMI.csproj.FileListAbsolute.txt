@@ -1,0 +1,7 @@
+D:\Study\GeekBrains\ControlStructures\BMI\bin\Debug\BMI.exe.config
+D:\Study\GeekBrains\ControlStructures\BMI\bin\Debug\BMI.exe
+D:\Study\GeekBrains\ControlStructures\BMI\bin\Debug\BMI.pdb
+D:\Study\GeekBrains\ControlStructures\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\ControlStructures\BMI\obj\Debug\BMI.exe
+D:\Study\GeekBrains\ControlStructures\BMI\obj\Debug\BMI.pdb
+D:\Study\GeekBrains\ControlStructures\BMI\obj\Debug\BMI.csprojAssemblyReference.cache

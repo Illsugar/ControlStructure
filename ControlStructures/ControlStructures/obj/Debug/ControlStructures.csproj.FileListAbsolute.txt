@@ -1,0 +1,7 @@
+D:\Study\GeekBrains\ControlStructures\ControlStructures\bin\Debug\ControlStructures.exe.config
+D:\Study\GeekBrains\ControlStructures\ControlStructures\bin\Debug\ControlStructures.exe
+D:\Study\GeekBrains\ControlStructures\ControlStructures\bin\Debug\ControlStructures.pdb
+D:\Study\GeekBrains\ControlStructures\ControlStructures\obj\Debug\ControlStructures.csprojAssemblyReference.cache
+D:\Study\GeekBrains\ControlStructures\ControlStructures\obj\Debug\ControlStructures.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\ControlStructures\ControlStructures\obj\Debug\ControlStructures.exe
+D:\Study\GeekBrains\ControlStructures\ControlStructures\obj\Debug\ControlStructures.pdb
